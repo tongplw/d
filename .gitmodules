@@ -1,0 +1,9 @@
+[submodule "todo-notification"]
+	path = todo-notification
+	url = https://github.com/natawutn/todo-notification.git
+[submodule "todo"]
+	path = todo
+	url = https://github.com/natawutn/todo.git
+[submodule "todo-webapp"]
+	path = todo-webapp
+	url = https://github.com/natawutn/todo-webapp.git
